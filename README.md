@@ -1,3 +1,3 @@
 # test-01
-Demo of gitfor DO7WD
+Demo of git for DO7WD
 
